@@ -21,4 +21,4 @@ Bot created to help in the sale of a smartphone, smartwatch or tablet informing 
 - Tenho uma reserva de produto quando coloco o produto no carrinho?
 
 
-Version 0.0.1
+Version 0.0.3
